@@ -25,3 +25,4 @@ make install
 1、uwsgi.ini：启动配置项，与django交互
 2、django的setting.py：静态文件配置，页面加载静态文件
 3、/etc/nginx/conf.d/defult：nginx配置监听端口服务，转到uwsgi页面，nginx配置静态文件服务
+4、....
